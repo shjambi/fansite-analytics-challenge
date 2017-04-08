@@ -1,0 +1,10 @@
+palona1.cns.hp.com,2196420
+pipe6.nyc.pipeline.com,2047864
+ppp-nyc-3-1.ios.com,1551762
+teleman.pr.mcs.net,1442450
+brandt.xensei.com,1421792
+157.142.56.104,1260160
+210.254.22.72,1121554
+ix-phi2-02.ix.netcom.com,1081049
+212.236.26.94,1081049
+aardvark.deagostini.co.uk,1081049

@@ -1,0 +1,10 @@
+/shuttle/missions/sts-71/movies/sts-71-tcdt-crew-walkout.mpg,6155320
+/,5454633
+/shuttle/missions/sts-71/movies/sts-71-hatch-hand-group.mpg,5454397
+/shuttle/countdown/count.gif,4474410
+/shuttle/missions/sts-71/movies/sts-71-mir-dock.mpg,3076843
+/shuttle/missions/sts-71/movies/crew-arrival-t38.mpg,2866186
+/shuttle/countdown/video/livevideo.gif,2749384
+/shuttle/missions/sts-71/movies/sts-71-launch.mpg,2349604
+/shuttle/missions/sts-71/movies/sts-71-hand-shake.mpg,2065660
+/shuttle/missions/sts-71/images/index71.gif,1523374
